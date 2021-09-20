@@ -15,6 +15,7 @@
 * When restarting snooze server, should not have to restart syslog as well
 * Client CLI
   * Client CLI dynamically updated with new versions of the API schema
+* Accept InfluxDB alerts
 
 ## Long term
 
